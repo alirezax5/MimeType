@@ -4,6 +4,9 @@ required
 ---------
 * PHP >= 7
 
+install :
+composer require alirezax5/mime-type
+
 Examples
 ---------
 ```
