@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "alirezax5\\MimeType": "src"
+      "alirezax5\\MimeType\\": "src"
     }
   }
 }
