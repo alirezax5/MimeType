@@ -1,0 +1,22 @@
+{
+  "name": "alirezax5/MimeType",
+  "description": "Work with mime types",
+  "keywords": ["MimeType","Mime Type"],
+  "homepage": "https://github.com/alirezax5/MimeType",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alirezax5",
+      "homepage": "http://alirezax5.ir",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "alirezax5\\MimeType": "src"
+    }
+  }
+}
