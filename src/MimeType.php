@@ -132,7 +132,7 @@ class MimeType
         return self::AllMimeType;
     }
 
-    public static function getMimeFromExtension(string $extension): string
+    public static function getMimeFromExtension(string $extension)
     {
 
         if (array_key_exists($extension, self::AllMimeType)) {
@@ -169,7 +169,7 @@ class MimeType
         return false;
     }
 
-    public static function getMimeromContent($path)
+    public static function getMimeFromContent($path)
     {
         if (is_file($path)) {
             return mime_content_type($path);
