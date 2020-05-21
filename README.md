@@ -32,3 +32,5 @@ Select a file to upload: <br>‎
 </form>
 ?>
 ```
+
+Wiki : [click](https://github.com/alirezax5/mime-type/wiki/Start-Working-Whit-The-Source)
